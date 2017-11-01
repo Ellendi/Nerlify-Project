@@ -1,7 +1,6 @@
 # Site settings
 baseurl = "http://nodejh.com/"
 themesDir = "themes"
-publishDir = "docs"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
 title = "Netlify Project"
