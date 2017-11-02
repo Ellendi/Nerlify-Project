@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://supervisor-peter-34246.netlify.com"
+baseurl = "/"
 themesDir = "themes"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
